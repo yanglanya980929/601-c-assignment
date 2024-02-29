@@ -1,0 +1,1 @@
+std::unordered_map<char, char> table_algorithm(const std::string , const std::string );
