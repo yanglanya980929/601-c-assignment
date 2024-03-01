@@ -97,6 +97,20 @@ sys	0m0.333s</pre>
 Therefore, adding -O3 makes it faster to run the code.
 
 # 13.1.5 Task 5
+1. Download the c++ compiler called Code Block using this link.
+https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe/download
+
+2. Input the username and password of your laptop and install Code Block.
+  
+3. Click "File" on the top left -> click "New" -> click "Project" -> click "Empty project" -> click "Next"
+
+4. Input the project title and the project filename and click Next.
+
+5. Move your c++ files to the folder you selected.
+
+6. Click "Project" -> click add files -> choose the files you want to upload.
+
+7. Click "Build and run" and then you will get the output in the compiler window.
 
 
 
